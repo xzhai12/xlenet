@@ -1,4 +1,4 @@
-# xlenet
+# xlenet: XL-ENet
 A Python package to conduct regularized linear regression via Lasso, Ridge Regression and Elastic Net, implemented basically by numpy and acceleration including multi-processing, Cython and C++ code wrapped by Cython.
 
 This is a final project product from the course STA-663-2016 by Cliburn Chan [https://github.com/cliburn] and Janice McCarthy at Duke University.
