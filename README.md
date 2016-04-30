@@ -23,6 +23,4 @@ Whatever OS you use, just download and import and use.
 * __other library/packages__: not required.
 
 
-
-
-
+# to be continued...
